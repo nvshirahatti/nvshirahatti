@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that intersects my interests or skills.
 - 📫 I can be reached by email nvshirahatti AT gmail DOT com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: A hip hop verse analyzer & practioner
+- ⚡ Fun fact: A hip hop (old school rap) verse analyzer & practioner
 
 <!---
 nvshirahatti/nvshirahatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
